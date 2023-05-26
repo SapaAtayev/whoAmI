@@ -10,6 +10,7 @@ body {
     margin-bottom: 1rem;
   }
 
+
 section {
     max-width: 600px;
     margin: 0 auto;
@@ -97,6 +98,7 @@ section.show {
     white-space: nowrap;
     overflow: hidden;
   }
+
   
   @keyframes typing {
     from {
@@ -109,8 +111,8 @@ section.show {
 .cv-info {
   border-radius: 5px;
   margin-bottom: 15px;
-  box-shadow:  6px 6px 12px #646060,
-  -6px -6px 12px #c0baba;
+  box-shadow:  6px 6px 12px #765b5b,
+  -6px -6px 12px #655454;
 }
 .logo_text {
   border-radius: .25rem;
@@ -137,8 +139,8 @@ section.show {
 
 
 .cool-tool {
-  box-shadow:  6px 6px 12px #646060,
-  -6px -6px 12px #c0baba;
+  box-shadow:  6px 6px 12px #765b5b,
+  -6px -6px 12px #655454;
 }
 
 
